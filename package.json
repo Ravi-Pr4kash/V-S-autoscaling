@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/express": "^5.0.1",
+    "cluster": "^0.7.7",
+    "express": "^5.1.0",
+    "os": "^0.1.2"
+  }
+}
